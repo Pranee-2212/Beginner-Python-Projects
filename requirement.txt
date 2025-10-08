@@ -1,0 +1,8 @@
+tkinter
+pandas
+num2words
+Pillow
+moviepy
+imageio
+playsound
+pyperclip
